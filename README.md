@@ -5,7 +5,7 @@
 🎓 ENSIA — École Nationale Supérieure d'Intelligence artificielle, Algeria 🇩🇿 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raoua-nouioua-a08600352/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/raouaraoua)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/RaouaNouioua)
 
 ---
 
@@ -58,7 +58,7 @@ full-stack web and mobile apps.
 
 ### 🫁 Pneumonia Detection from Chest X-Rays
 
-**Repository:** [pneumonia-detection-ai](https://github.com/[yourusername]/pneumonia-detection-ai)
+**Repository:** [pneumonia-detection-ai](https://github.com/RaouaNouioua/pneumonia-detection-ai)
 
 End-to-end medical AI system for binary classification of chest X-rays into NORMAL vs PNEUMONIA categories. Complete pipeline from data preprocessing to production deployment with 86.1% accuracy and clinically-validated safety metrics.
 
@@ -82,11 +82,11 @@ First implementation combining transfer learning (86.1% accuracy) with medical-g
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raouaraoua&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaouaNouioua&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raouaraoua&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaouaNouioua&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=raouaraoua&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=RaouaNouioua&theme=tokyonight&hide_border=true)
 
 </div>
 
