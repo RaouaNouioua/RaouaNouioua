@@ -82,10 +82,11 @@ First implementation combining transfer learning (86.1% accuracy) with medical-g
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RaouaNouioua&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub Stats](https://YOUR-VERCEL-URL.vercel.app/api?username=RaouaNouioua&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaouaNouioua&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaouaNouioua&theme=tokyonight)
+![Top Languages](https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=RaouaNouioua&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RaouaNouioua&theme=tokyonight&hide_border=true)
 
 </div>
 
